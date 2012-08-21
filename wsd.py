@@ -1,6 +1,5 @@
-#!python
+#!/usr/bin/env python
 # encoding: utf-8
-
 '''
 Writing Smell Detector is a tool to help find problems in your writing.
 '''
@@ -19,6 +18,7 @@ __license__ = 'GPL'
 __maintainer__ = 'utapyngo'
 __email__ = 'utapyngo@gmail.com'
 __status__ = 'Development'
+__version__ = '0.1.0'
 
 
 def _setup_logger():
